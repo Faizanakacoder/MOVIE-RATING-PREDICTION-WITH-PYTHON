@@ -83,14 +83,15 @@ I'm always open to discussing Data Science, Machine Learning, or even just great
 
 ---
 
+---
+
 <div align="center">
-<p>⭐ <b>If you found this project helpful, please give it a Star!</b> ⭐</p>
-<p><i>Happy Coding! 🚀</i></p>
-</div>
 
-```
+## 🌟 Support this Project!
+If you found this analysis insightful or helpful for your own learning, please consider giving it a **Star**! 
 
------
+[![](https://img.shields.io/badge/Star-This%20Repo-gold?style=for-the-badge&logo=github)](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/stargazers)
 
-
-```
+---
+### 🚀 Let's Build the Future of Data together.
+**Happy Coding!** *Faizan Firoz Shah* </div>
