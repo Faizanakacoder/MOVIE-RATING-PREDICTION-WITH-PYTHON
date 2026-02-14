@@ -62,9 +62,9 @@ To build a **Random Forest Regressor** capable of estimating movie ratings by an
 
 ```text
 ├── Images/               # Visualizations and EDA plots
-├── Movie_Rating_Prediction.ipynb # Main Project Notebook
+├── TASK-2 CODSOFT INTERNSHIP.ipynb # Main Project Notebook
 ├── README.md             # Documentation
-└── requirements.txt      # Dependencies
+└── task 2 data science.zip     # Dependencies
 
 ```
 
