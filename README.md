@@ -18,28 +18,22 @@ To build a **Random Forest Regressor** capable of estimating movie ratings by an
 ---
 
 ## 📊 Visual Insights (EDA)
-Data visualization is the bridge between raw numbers and cinematic insights. Here are the key findings:
+*Data isn't just numbers; it's a story.* Here are the key insights that drove my model's logic:
 
 ### 1. The Popularity Paradox
-There is a significant positive correlation between the number of votes and the rating. Movies that generate high engagement levels tend to have higher overall quality scores.
-![Popularity vs Quality](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/blob/main/Images/popularity%20equal%20quality.png?raw=true)
+![Popularity vs Quality](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/blob/main/image/popularity%20equal%20quality.png.png?raw=true)
 
 ### 2. Genre Dominance
-Not all genres are created equal. My analysis shows that **Action** and **Sci-Fi** often lead the charts in terms of average ratings in this dataset.
-![Average Rating by Genre](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/blob/main/Images/average%20movie%20rating%20by%20genre.png?raw=true)
+![Average Rating by Genre](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/blob/main/image/average%20movie%20rating%20by%20genre.png.png?raw=true)
 
 ### 3. The Runtime Myth
-Does a longer movie mean a better movie? The regression line shows a near-flat relationship, proving that **Duration** has almost no impact on the final rating.
-![Duration vs Rating](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/blob/main/Images/do%20longer%20movies%20get%20better%20rattings.png?raw=true)
+![Duration vs Rating](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/blob/main/image/do%20longer%20movies%20get%20better%20rattings.png.png?raw=true)
 
 ### 4. The Director's Influence
-Certain directors acts as a "seal of quality." The data identifies top-tier directors whose movies consistently score higher than average.
-![Director Analysis](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/blob/main/Images/which%20derector%20guarantee%20a%20hit.png?raw=true)
+![Director Analysis](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/blob/main/image/which%20derector%20guarantee%20a%20hit.png.png?raw=true)
 
 ### 5. Correlation Heatmap
-The technical backbone of the project—revealing that **Votes** is the strongest predictor for ratings, far outweighing runtime.
-![Feature Correlation](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/blob/main/Images/feature%20correlation%20heatmap.png?raw=true)
-
+![Feature Correlation](https://github.com/Faizanakacoder/MOVIE-RATING-PREDICTION-WITH-PYTHON/blob/main/image/feature%20correlation%20heatmap.png.png?raw=true)
 ---
 
 ## 🛠️ Technologies & Tools
